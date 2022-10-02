@@ -40,5 +40,5 @@ if (hasInstall) InstallationManager.RemoveInstallInfo(installInfo);
       * Removes the specified program installation info from the Registry
 
 ## Download
-[Standalone (x86/x32)](https://github.com/Lexz-08/program-inst-manager/releases/latest/download/program-inst-manager-(x86).dll)<br/>
-[Standalone (x64)](https://github.com/Lexz-08/program-inst-manager/releases/latest/download/program-inst-manager-(x86).dll)
+[Standalone (x86/x32)](https://github.com/Lexz-08/program-inst-manager/releases/latest/download/program-inst-manager-x86.dll)<br/>
+[Standalone (x64)](https://github.com/Lexz-08/program-inst-manager/releases/latest/download/program-inst-manager-x64.dll)
